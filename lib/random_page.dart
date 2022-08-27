@@ -23,7 +23,7 @@ class _RandomPageState extends State<RandomPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Main Page'),
+        title: Text('Home'),
       ),
       body: Center(
         child: Text(
